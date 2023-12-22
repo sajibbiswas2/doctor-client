@@ -1,0 +1,30 @@
+.footer-container {
+    background-image: url('../../../images/footer-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+
+.social {
+    font-size: 35px;
+}
+
+.social span i {
+    margin-right: 15px;
+    color: rgb(10, 151, 10);
+}
+
+.social span i:hover {
+    background-color: rgb(76, 0, 255);
+    border-radius: 100%;
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+.footerList{
+    line-height: 30px;
+}
+.footerList li a{
+    color: rgb(122, 120, 120);
+}

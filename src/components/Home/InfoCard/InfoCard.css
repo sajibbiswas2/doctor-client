@@ -1,0 +1,24 @@
+.info-primary {
+    background-color: #1cc7c1;
+}
+
+.info-dark {
+    background-color: #4e4e4e;
+}
+
+.info-icon {
+    margin-right: 15px;
+    font-size: 44px;
+}
+
+.info-container {
+    border-radius: 5px;
+    height: 100px;
+    padding: 30px;
+}
+
+@media screen and (max-width:600px) {
+    .info-container {
+        margin-top: 10px;
+    }
+}

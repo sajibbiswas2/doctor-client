@@ -1,0 +1,8 @@
+.profilePhoto{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: #72a6eb;
+    border: 2px solid black;
+}

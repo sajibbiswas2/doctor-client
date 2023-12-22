@@ -1,0 +1,15 @@
+.make-appointment{
+    background-image: url('../../../images/appointment-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 420px;
+    position: relative;
+}
+.make-appointment h5{
+    color: aqua;
+}
+.make-appointment img{
+    height: 550px;
+    transform: translateY(-130px);
+}

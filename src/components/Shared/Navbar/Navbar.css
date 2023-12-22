@@ -1,0 +1,8 @@
+.menu-container ul li a{
+    font-weight: 600;
+}
+@media screen and (max-width:600px) {
+    .navs-wraper {
+       text-align: center;
+    }
+}

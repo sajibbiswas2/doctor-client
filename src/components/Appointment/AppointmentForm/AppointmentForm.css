@@ -1,0 +1,11 @@
+.form-container input{
+    padding-right: 30px ;
+    margin-bottom: 25px;
+}
+.form-container{
+    padding-left: 50px;
+    background-color: rgb(248, 232, 205);
+    border-radius: 6px;
+    width: 450px;
+    
+}

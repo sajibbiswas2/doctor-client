@@ -1,0 +1,21 @@
+.profile-sidebar {
+    height: 100vh;
+    position: fixed;
+    padding-right: 23px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+@media only screen and (max-width: 668px) {
+    .profile-sidebar{
+        position: static;
+        height: 100%;
+        padding-top: 10px;
+    }
+}

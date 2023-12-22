@@ -1,0 +1,9 @@
+.blog-Card:hover{
+    background-color: aqua;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.blog-Card{
+    
+    border-bottom: 1px solid #dfdddd;
+}
